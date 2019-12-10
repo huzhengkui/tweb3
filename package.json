@@ -1,8 +1,8 @@
 {
   "name": "web3",
-  "namespace": "okc",
+  "namespace": "tgm",
   "version": "0.1.3",
-  "description": "okc JavaScript API, middleware to talk to a okc node over RPC",
+  "description": "tgm JavaScript API, middleware to talk to a tgm node over RPC",
   "main": "./index.js",
   "directories": {
     "lib": "./lib"

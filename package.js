@@ -1,8 +1,8 @@
 /* jshint ignore:start */
 Package.describe({
-  name: 'okc:web3',
+  name: 'tgm:web3',
   version: '0.1.0',
-  summary: 'okc JavaScript API, middleware to talk to a okc node over RPC',
+  summary: 'tgm JavaScript API, middleware to talk to a tgm node over RPC',
   git: '',
   // By default, Meteor will default to using README.md for documentation.
   // To avoid submitting documentation, set this field to null.
